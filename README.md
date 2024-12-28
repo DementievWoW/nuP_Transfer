@@ -26,6 +26,15 @@ https://www.microsoft.com/en-us/research/publication/delving-deep-into-rectifier
 set_base_shapes()
 ![image](https://github.com/user-attachments/assets/4cc5b300-73f9-450e-a583-4c2ceef2731a)
 ![image](https://github.com/user-attachments/assets/30fb3c8a-bbbd-45b6-a8b4-4a608e139a10)
+При данных настройках Target model не сходится, в то время как моедлька с донорскими настройками показывает отличные результаты.
+![image](https://github.com/user-attachments/assets/509e8d26-10b1-4112-8904-4b54a4f04fb1)
+
+![image](https://github.com/user-attachments/assets/00827346-4ea4-489b-b80d-7c487d8b7244)
+
+(донорская моделька)
+![image](https://github.com/user-attachments/assets/cd4da70f-58ff-4bf5-9d70-dcc1bacf6a44)
+
+
 
 
  
