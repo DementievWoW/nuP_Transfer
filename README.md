@@ -25,6 +25,8 @@ https://www.microsoft.com/en-us/research/publication/delving-deep-into-rectifier
 Одну модель я оставил в стоке, во второй head был заменен на специализированный слой. MuReadout это обёртка вокруг nn.Linear, которая масштабирует начальную дисперсию веса с помощью ширины множителя, рассчитанного функцией 
 set_base_shapes()
 ![image](https://github.com/user-attachments/assets/4cc5b300-73f9-450e-a583-4c2ceef2731a)
+![image](https://github.com/user-attachments/assets/30fb3c8a-bbbd-45b6-a8b4-4a608e139a10)
+
 
  
  
